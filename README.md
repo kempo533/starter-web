@@ -16,6 +16,8 @@ Sample Sample Sample
 
 ## How to contribute
 
+Please fork this repository and then issue Pull requests for review.
+
 ### Copyright
 
 Copyright 2023 Git.Training
